@@ -1,0 +1,6 @@
+#inlude<stdio.h>
+int main(){
+  int age=25;
+  scanf("%d,licence is eligible for above 18);
+  printf("%d,if age is=25");
+} 
